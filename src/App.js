@@ -8,6 +8,8 @@ function App() {
      <h2>lê thị hà</h2>
      <h2>Ptit</h2>
      <h2>reactjs</h2>
+     <span>học lập trình cơ bản tại f8</span>
+     <span>hello anh em</span>
     </div>
   )
 }
